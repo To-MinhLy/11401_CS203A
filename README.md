@@ -13,4 +13,9 @@ This repository is created for the CS203A course - Data Structures class.
 It contains assignments, project files, documentation, and notes.
 It also serves as a record of what i have leaving of what i have learned from this course.
 
+## Related Links
+- [Course Repository (11401_CS203A)](https://github.com/To-MinhLy/11401_CS203A)
+- [Personal Website Repository](https://github.com/To-MinhLy/to-minhly.github.io)
+- [Live Personal Website (Github Pages)](https://to-minhly.github.io)
+
   
